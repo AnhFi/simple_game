@@ -1,0 +1,15 @@
+C:\Users\Anh Phi\source\repos\SimpleGame\SimpleGame\bin\Debug\SimpleGame.exe.config
+C:\Users\Anh Phi\source\repos\SimpleGame\SimpleGame\bin\Debug\SimpleGame.exe
+C:\Users\Anh Phi\source\repos\SimpleGame\SimpleGame\bin\Debug\SimpleGame.pdb
+C:\Users\Anh Phi\source\repos\SimpleGame\SimpleGame\obj\Debug\SimpleGame.csproj.AssemblyReference.cache
+C:\Users\Anh Phi\source\repos\SimpleGame\SimpleGame\obj\Debug\SimpleGame.Form1.resources
+C:\Users\Anh Phi\source\repos\SimpleGame\SimpleGame\obj\Debug\SimpleGame.Properties.Resources.resources
+C:\Users\Anh Phi\source\repos\SimpleGame\SimpleGame\obj\Debug\SimpleGame.csproj.GenerateResource.cache
+C:\Users\Anh Phi\source\repos\SimpleGame\SimpleGame\obj\Debug\SimpleGame.csproj.CoreCompileInputs.cache
+C:\Users\Anh Phi\source\repos\SimpleGame\SimpleGame\obj\Debug\SimpleGame.exe
+C:\Users\Anh Phi\source\repos\SimpleGame\SimpleGame\obj\Debug\SimpleGame.pdb
+C:\Users\Anh Phi\source\repos\SimpleGame\SimpleGame\bin\Debug\Resources\munition.png
+C:\Users\Anh Phi\source\repos\SimpleGame\SimpleGame\obj\Debug\Interop.MediaPlayer.dll
+C:\Users\Anh Phi\source\repos\SimpleGame\SimpleGame\obj\Debug\Interop.WMPLib.dll
+C:\Users\Anh Phi\source\repos\SimpleGame\SimpleGame\obj\Debug\SimpleGame.csproj.ResolveComReference.cache
+C:\Users\Anh Phi\source\repos\SimpleGame\SimpleGame\obj\Debug\SimpleGame.Form5.resources
